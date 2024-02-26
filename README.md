@@ -72,3 +72,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Sample Project
 # OutPut
+
+![Uploading 1.png…]()
+
+![Uploading 2.png…]()
+
+![Uploading 3.png…]()
+
+
+
