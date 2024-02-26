@@ -73,11 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Sample Project
 # OutPut
 
-![Uploading 1.png…]()
+![1](https://github.com/tophankumarray/travel/assets/93485734/ee71accf-0547-476c-9fa5-6e83b3b3efa5)
 
-![Uploading 2.png…]()
+![2](https://github.com/tophankumarray/travel/assets/93485734/3dbf15ab-3ade-476e-a76f-a898d779ca10)
 
-![Uploading 3.png…]()
-
+![3](https://github.com/tophankumarray/travel/assets/93485734/636607f1-e42b-47d0-a64e-f3969c1f561d)
 
 
